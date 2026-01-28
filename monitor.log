@@ -1,0 +1,156 @@
+2026-01-27 22:48:46,587 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 22:48:47,607 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 22:48:47,607 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 22:48:47,608 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'save_history.save_history(...)'?
+2026-01-27 22:49:48,482 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 22:49:48,482 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 22:49:48,482 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'save_history.save_history(...)'?
+2026-01-27 22:50:49,428 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 22:50:49,428 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 22:50:49,428 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'save_history.save_history(...)'?
+2026-01-27 23:00:15,646 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:00:15,647 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:00:16,427 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:00:16,427 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:00:16,427 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'save_history.save_history(...)'?
+2026-01-27 23:00:50,222 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:00:50,222 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:00:51,296 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:00:51,296 - INFO - ainda está caro para dedel...
+2026-01-27 23:01:52,433 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:01:52,434 - INFO - ainda está caro para dedel...
+2026-01-27 23:02:41,470 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:02:41,470 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:02:42,416 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:02:42,416 - INFO - ainda está caro para dedel...
+2026-01-27 23:02:43,488 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:22:34,944 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:22:34,944 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:22:35,836 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:22:35,836 - INFO - ainda está caro para dedel...
+2026-01-27 23:23:36,710 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:23:36,711 - INFO - ainda está caro para dedel...
+2026-01-27 23:24:37,529 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:24:37,529 - INFO - ainda está caro para dedel...
+2026-01-27 23:25:38,625 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:25:38,625 - INFO - ainda está caro para dedel...
+2026-01-27 23:26:39,469 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:26:39,469 - INFO - ainda está caro para dedel...
+2026-01-27 23:27:40,491 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:27:40,491 - INFO - ainda está caro para dedel...
+2026-01-27 23:28:41,536 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:28:41,536 - INFO - ainda está caro para dedel...
+2026-01-27 23:29:42,471 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:29:42,472 - INFO - ainda está caro para dedel...
+2026-01-27 23:30:43,408 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:30:43,408 - INFO - ainda está caro para dedel...
+2026-01-27 23:31:44,324 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:31:44,324 - INFO - ainda está caro para dedel...
+2026-01-27 23:32:45,279 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:32:45,279 - INFO - ainda está caro para dedel...
+2026-01-27 23:33:46,219 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:33:46,219 - INFO - ainda está caro para dedel...
+2026-01-27 23:34:47,073 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:34:47,073 - INFO - ainda está caro para dedel...
+2026-01-27 23:35:48,125 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:35:48,126 - INFO - ainda está caro para dedel...
+2026-01-27 23:36:49,315 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:36:49,315 - INFO - ainda está caro para dedel...
+2026-01-27 23:37:26,069 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:37:27,958 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:37:27,958 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:37:28,857 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:37:28,857 - INFO - ainda está caro para dedel...
+2026-01-27 23:38:29,652 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:38:29,652 - INFO - ainda está caro para dedel...
+2026-01-27 23:39:20,279 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:39:22,323 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:39:22,324 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:39:23,194 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:39:23,194 - INFO - ainda está caro para dedel...
+2026-01-27 23:39:50,363 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:39:53,263 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:39:53,263 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:39:54,175 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:39:54,175 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:39:54,175 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'save_history.save_history(...)'?
+2026-01-27 23:40:55,135 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:40:55,135 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:40:55,135 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'save_history.save_history(...)'?
+2026-01-27 23:41:56,090 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:41:56,090 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:41:56,090 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'save_history.save_history(...)'?
+2026-01-27 23:42:14,179 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:42:16,288 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:42:16,288 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:42:17,058 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:42:17,058 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:42:17,058 - ERROR - Erro as salvar no CSV: writer.writerow() takes exactly one argument (3 given)
+2026-01-27 23:42:17,058 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'send_email.send_email(...)'?
+2026-01-27 23:43:17,911 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:43:17,912 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:43:17,912 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'send_email.send_email(...)'?
+2026-01-27 23:43:55,902 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:45:04,806 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:45:04,806 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:45:05,659 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:45:05,659 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:45:36,035 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:45:38,042 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:45:38,043 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:45:38,834 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:45:38,835 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:45:38,835 - ERROR - Erro as salvar no CSV: writer.writerow() takes exactly one argument (3 given)
+2026-01-27 23:46:39,658 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:46:39,658 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:47:40,706 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:47:40,706 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:47:51,887 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:47:54,334 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:47:54,334 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:47:59,803 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:47:59,803 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:47:59,803 - ERROR - Erro as salvar no CSV: type object 'datetime.datetime' has no attribute 'new'
+2026-01-27 23:48:48,785 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:48:50,757 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:48:50,757 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:48:51,585 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:48:51,585 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:48:51,586 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:49:52,525 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:49:52,525 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:49:52,525 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:50:24,366 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:50:26,245 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:50:26,246 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:50:27,256 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:50:27,256 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:50:27,256 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:51:00,849 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:51:03,473 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:51:03,473 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:51:04,255 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:51:04,255 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:51:04,255 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:52:05,099 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:52:05,099 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:52:05,099 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:52:40,621 - INFO - Monitoramento parado pelo usuario
+2026-01-27 23:52:43,208 - INFO - Sistem de logging configurado com sucesso.
+2026-01-27 23:52:43,208 - WARNING - Iniciando monitoramento, Pressione ctrl+C para parar
+2026-01-27 23:52:44,098 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:52:44,098 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:52:44,098 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:52:44,098 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'send_email.send_email(...)'?
+2026-01-27 23:53:44,900 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:53:44,900 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:53:44,900 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:53:44,901 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'send_email.send_email(...)'?
+2026-01-27 23:54:45,808 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:54:45,808 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:54:45,808 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:54:45,808 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'send_email.send_email(...)'?
+2026-01-27 23:55:46,692 - INFO - produto: Notebook ASUS TUF Ga | Preço: R$ 4949.00
+2026-01-27 23:55:46,692 - WARNING - META ATIGIDA: R$ 4949.00
+2026-01-27 23:55:46,693 - ERROR - Erro as salvar no CSV: cannot access local variable 'logging' where it is not associated with a value
+2026-01-27 23:55:46,693 - ERROR - Ocorreu um erro: 'module' object is not callable. Did you mean: 'send_email.send_email(...)'?
