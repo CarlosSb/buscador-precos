@@ -1,4 +1,15 @@
+# Ambientes virtuais
 venv/
-*.pyc
+.venv/
+env/
+
+# Cache do Python
 __pycache__/
+*.py[cod]
+
+# Configurações sensíveis
 .env
+
+# Arquivos gerados pelo script (opcional mantê-los fora do Git)
+monitor.log
+historico_precos.csv
